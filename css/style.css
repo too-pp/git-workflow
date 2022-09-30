@@ -4,4 +4,8 @@ body{
 h1{
     color: aliceblue;
     font-size: 60px;
+    text-align: center;
+}
+ul li {
+    text-align: center;
 }
